@@ -11,8 +11,8 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Jing Xie",
   initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  location: "London, UK",
+  locationLink: "https://maps.app.goo.gl/HvAN59bAN9kLq4rY9",
   about:
     "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
   summary: (
